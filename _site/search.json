@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Project",
+    "section": "",
+    "text": "I am a graduate student in Economics at the University of Texas att El Paso, studying Economic Forecasting."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This is my project page."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Research Project",
+    "section": "CV",
+    "text": "CV\nDownload full CV (PDF)\nEducation\n\nM.S. Economics, The University of Texas at El Paso (May 2027)\nB.A. English, California State UniversityStanislaus (2004)\n\nExperience\n\n[Role], [Organization], [Dates]"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Research Project",
+    "section": "Research interests",
+    "text": "Research interests\nMy research interest center on Economic Forecasting, specifics to be determined."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Research Project",
+    "section": "Skills",
+    "text": "Skills\n\nPython (pandas, statsmodels)\nR / Stata\nTime series forecasting"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Research Project",
+    "section": "Contact",
+    "text": "Contact\nEmail: soperez@miners.utep.edu\nLinkedIn: linked.com/in/yourname Github: github.com/yourusername"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Research Project",
+    "section": "Overview",
+    "text": "Overview\nI am developing a time series forecasting project on [to be determined], as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops."
+  },
+  {
+    "objectID": "index.html#status",
+    "href": "index.html#status",
+    "title": "Research Project",
+    "section": "Status",
+    "text": "Status\nProposal stage - details forthcoming.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

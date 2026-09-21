@@ -1,0 +1,53 @@
+---
+title: "Soperezxyz"
+---
+
+![](images/Profile.jpg){width=200px}
+
+I am a graduate student in Economics at the University of Texas att El Paso, studying Economic Forecasting. 
+
+## CV
+
+[**Download full CV (PDF)**](files/cv.pdf)
+
+**Education**
+
+- M.S. Economics, The University of Texas at El Paso (May 2027)
+- B.A. English, California State UniversityStanislaus (2004)
+
+**Experience**
+
+- [Role], [Organization], [Dates]
+
+## Research interests
+
+My research interest center on Economic Forecasting, specifics to be determined. 
+
+## Skills
+
+- Python (pandas, statsmodels)
+- R / Stata
+- Time series forecasting
+
+## Contact
+
+**Email:** soperez@miners.utep.edu
+
+**LinkedIn:** [linked.com/in/yourname](https://linked.com/in/yourname)
+**Github:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+title: "Research Project"
+---
+
+## Overview
+
+I am developing a time series forecasting project on [to be determined], as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops. 
+
+## Status
+
+*Proposal stage - details forthcoming.*
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
